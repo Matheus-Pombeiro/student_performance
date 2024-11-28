@@ -23,7 +23,7 @@
 <p align='justify'>The dataset offers a variety of possibilities to explore and analyze its data. So, next there are some questions which will be answered through the project development. These questions aim to guide the project author.1</p>
 
 <ul>
-  <li>What school has the highest grade percentage? And about class type?</li>
+  <li>What school has the best grade percentage performance? And about class type?</li>
   <li>How many students from each school are registered in the English Learner Language program?</li>
   <li>What’s the average number of students registered in each program?</li>
   <li>What’s the relation of each grade level and their quantity?</li>
