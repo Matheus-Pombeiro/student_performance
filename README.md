@@ -64,3 +64,22 @@
 <br>
 
 <p align='justify'>Looking at the previous chart it’s possible to see the difference among these schools. The Gale Elementary School has about one thousand more students registered in the ELL program than the Leafy Elementary School. Furthermore, in relation to these five schools, there are more students learning English as a second language in elementary schools than in high schools.</p>
+
+### 2.3 Average of students registered in each program
+
+<p align='justify'>The dataset used in this project development brings the number of students registered in four educational programs, which are AVID, SPED, Migrant and ELL. Next there are descriptions about the purpose of each program, unless the ELL which was mentioned before.</p>
+
+<p align='justify'>AVID, or Advancement Via Individual Determination, is a college readiness program designed to help middle and high school students succeed in rigorous academic courses and prepare for college. It focuses on students who are academically in the middle, earning B, C, and even D grades, and provides them with the support and resources they need to reach their full potential.</p>
+
+<p align='justify'>SPED stands for Special Education. It's a program designed to provide additional support and services to students with disabilities in US schools. These services are tailored to meet the unique needs of each student and help them reach their full potential.</p>
+
+<p align='justify'>The Migrant Education Program (MEP) is a federally funded program designed to provide educational support and services to migratory children. These are children who move across school district lines with their families to engage in agricultural or fishing work. So, thinking about it, it was found the average of students registered in each program.</p>
+
+<div align="center">
+  <img src="charts/average_students_programs.png" alt="Average of students registered in each program chart"/>
+</div>
+<br>
+
+<p align='justify'>Through the chart it’s possible to realize that the number of students registered in these programs is very low in comparison to the total number of students recorded in this dataset. And there is a considerable difference among the programs.</p>
+
+<p align='justify'>The AVID program has a bigger number of students registered in it than the others. Which indicates that there is a bigger group of students interested in having a degree in the future than migrant students and students who have disabilities. Additionally, the number of students who are learning English as a second language is quite lower than the number of students who are aiming to study in a university one day.</p>
