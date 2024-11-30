@@ -83,3 +83,14 @@
 <p align='justify'>Through the chart it’s possible to realize that the number of students registered in these programs is very low in comparison to the total number of students recorded in this dataset. And there is a considerable difference among the programs.</p>
 
 <p align='justify'>The AVID program has a bigger number of students registered in it than the others. Which indicates that there is a bigger group of students interested in having a degree in the future than migrant students and students who have disabilities. Additionally, the number of students who are learning English as a second language is quite lower than the number of students who are aiming to study in a university one day.</p>
+
+### 2.4 Grade levels and their quantity
+
+<p align='justify'>The relation between the grade levels and the number of students registered in them can be analyzed through this dataset. There are five different grade levels, from the third to the eighth grade, skipping the fifth one.</p>
+
+<div align="center">
+  <img src="charts/grade_level_students.png" alt="Grade levels and their quantity program chart"/>
+</div>
+<br>
+
+<p align='justify'>Looking at the chart it’s possible to see the difference among the grade levels. There are a higher number of students registered from the sixth to the eighth grade than in the third and fourth ones. There are more than three times more students registered from the sixth to the eighth grade in comparison to the third and fourth grades, which is a significant difference.</p>
