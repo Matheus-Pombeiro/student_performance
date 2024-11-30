@@ -94,3 +94,14 @@
 <br>
 
 <p align='justify'>Looking at the chart it’s possible to see the difference among the grade levels. There are a higher number of students registered from the sixth to the eighth grade than in the third and fourth ones. There are more than three times more students registered from the sixth to the eighth grade in comparison to the third and fourth grades, which is a significant difference.</p>
+
+### 2.5 Grade percentage average by year
+
+<p align='justify'>In terms of the student’s performances by year, it was found the grade percentage average grouping the data by school year. The following chart shows the five school years with the best student’s performances over time.</p>
+
+<div align="center">
+  <img src="charts/grade_percentage_average.png" alt="Grade percentage average chart"/>
+</div>
+<br>
+
+<p align='justify'>Analysing the chart it’s possible to realize that the difference among the years isn’t very big, but there’s an interesting spot. The year with the best student’s performance is from 2024 to 2025, although the dataset used in this project was published in November 2024, in other words before 2025. This indicates a really good development about U.S. students along the past few years.</p>
