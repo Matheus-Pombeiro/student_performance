@@ -105,3 +105,15 @@
 <br>
 
 <p align='justify'>Analysing the chart it’s possible to realize that the difference among the years isn’t very big, but there’s an interesting spot. The year with the best student’s performance is from 2024 to 2025, although the dataset used in this project was published in November 2024, in other words before 2025. This indicates a really good development about U.S. students along the past few years.</p>
+
+## Conclusion
+
+<p align='justify'>Throughout this project development was answered some questions about the academic performance in U.S. schools over time. The analyses were based on the dataset exploration and charts plotted about it.</p>
+
+<p align='justify'>U.S. schools and their students showed a nice performance along the past few years. Their results presented growth especially after the COVID-19 pandemic. So, based on this information, the U.S. education system has been geared toward improving its results.</p>
+
+<p align='right'>Matheus V. G. Pombeiro</p>
+
+<p align='right'>Data Science Student</p>
+
+<p align='right'>November 30th, 2024</p>
