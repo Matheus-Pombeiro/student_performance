@@ -51,3 +51,16 @@
 <br>
 
 <p align='justify'>About the class type student’s performances, there’s a small difference in comparison to the school student’s performances. The class type variable values aren’t as similar as in the school ones. However, the difference isn’t considerably big, so, this indicates a good student’s performance in at least five subjects, which means a good balance in their education.</p>
+
+### 2.2 English learner language program
+
+<p align='justify'>The English learner language programs (ELL) are designed to support students who are learning English as a second language. These programs vary across states and school districts but generally aim to help ELL students develop English language proficiency while also accessing grade-level content.</p>
+
+<p align='justify'>Analysing the dataset it was possible to verify the schools with the biggest number of students registered in this program. And this can indicate a higher number of foreign students studying there.</p>
+
+<div align="center">
+  <img src="charts/students_registered_ell.png" alt="Students registered in the ELL program chart"/>
+</div>
+<br>
+
+<p align='justify'>Looking at the previous chart it’s possible to see the difference among these schools. The Gale Elementary School has about one thousand more students registered in the ELL program than the Leafy Elementary School. Furthermore, in relation to these five schools, there are more students learning English as a second language in elementary schools than in high schools.</p>
